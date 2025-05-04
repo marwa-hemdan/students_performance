@@ -1,15 +1,26 @@
 According to the data set in this link https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
+
 Inspiration
+
 To understand the influence of the parents background, test preparation etc on students performance
+
  Step 1: I define the Problem Clearly
+ 
 "Why do some students perform better in math than reading?"
+
 Break it down:
+
 Are math scores generally higher or lower than reading?
+
 Are there specific groups (e.g., by gender or education level) showing this pattern?
+
 What could influence the scores (test prep, lunch type, etc.)?
+
 Step 2: group by
+
 Gender
 Parental education level
+
 Step 3: I visualize the pivot table by using bar chart 
 
 ***Example Summary***
