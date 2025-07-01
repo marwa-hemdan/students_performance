@@ -1,9 +1,9 @@
-🎯 Project Motivation
+# 🎯 Project Motivation
 This project is based on the dataset available [here](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data), 
 which includes exam scores and demographic data of students. The goal is to explore how factors such as parental background, test preparation,
 and other social indicators affect student performance — with a particular focus on the gap between math and reading scores.
 
-🧩 Problem Statement
+## 🧩 Problem Statement
 Main Question:
 
 Why do some students perform better in math than in reading?
@@ -16,7 +16,7 @@ Do specific groups (e.g., by gender or parental education level) show significan
 
 What external factors — such as test preparation course completion or lunch type — might influence performance?
 
-📊 Approach
+ ## 📊Approach
 Step 1: Data Grouping
 I grouped the data by:
 
@@ -28,8 +28,7 @@ This helped in identifying consistent patterns across demographic groups.
 
 Step 2: Visualization
 To compare average scores, I created a pivot table and visualized the results using bar charts, highlighting differences in math and reading performance.
-
-📌 Key Insights
+## 📌 Key Insights
 On average, students perform slightly better in reading than in math.
 
 The performance gap is most pronounced among students who did not complete test preparation.
