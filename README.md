@@ -1,30 +1,43 @@
-According to the data set in this link https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data
+🎯 Project Motivation
+This project is based on the dataset available [here](https://www.kaggle.com/datasets/spscientist/students-performance-in-exams/data), 
+which includes exam scores and demographic data of students. The goal is to explore how factors such as parental background, test preparation,
+and other social indicators affect student performance — with a particular focus on the gap between math and reading scores.
 
-Inspiration
+🧩 Problem Statement
+Main Question:
 
-To understand the influence of the parents background, test preparation etc on students performance
+Why do some students perform better in math than in reading?
 
- Step 1: I define the Problem Clearly
- 
-"Why do some students perform better in math than reading?"
+To explore this, I broke the question into sub-questions:
 
-Break it down:
+Are students generally scoring higher in math or reading?
 
-Are math scores generally higher or lower than reading?
+Do specific groups (e.g., by gender or parental education level) show significant performance differences?
 
-Are there specific groups (e.g., by gender or education level) showing this pattern?
+What external factors — such as test preparation course completion or lunch type — might influence performance?
 
-What could influence the scores (test prep, lunch type, etc.)?
-
-Step 2: group by
+📊 Approach
+Step 1: Data Grouping
+I grouped the data by:
 
 Gender
-Parental education level
 
-Step 3: I visualize the pivot table by using bar chart 
+Parental level of education
 
-***Example Summary***
-Students generally perform slightly better in reading than math.
-The gap is largest among students with no test preparation.
-Parental education level affects scores — associate’s and master’s degree groups tend to perform better.
-Targeted support may be needed for students whose parents didn’t finish high school.
+This helped in identifying consistent patterns across demographic groups.
+
+Step 2: Visualization
+To compare average scores, I created a pivot table and visualized the results using bar charts, highlighting differences in math and reading performance.
+
+📌 Key Insights
+On average, students perform slightly better in reading than in math.
+
+The performance gap is most pronounced among students who did not complete test preparation.
+
+Parental education level has a noticeable impact: students whose parents hold an associate's or master’s degree tend to perform better across all subjects.
+
+Students whose parents did not complete high school may benefit from additional academic support.
+
+This analysis offers a starting point for deeper exploration into educational inequality and can help inform targeted interventions.
+
+
