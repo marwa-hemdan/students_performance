@@ -11,8 +11,20 @@ Why do some students perform better in math than in reading?
 To explore this, I broke the question into sub-questions:
 
 Are students generally scoring higher in math or reading?
+here get the average score in reading, math, and writing 
+![st1](https://github.com/user-attachments/assets/e70f89e7-81ed-4ce2-971e-4a603460c022)
 
-Do specific groups (e.g., by gender or parental education level) show significant performance differences?
+Get the average score in the same subjects depends on parental education level 
+
+![st2](https://github.com/user-attachments/assets/2c4a14fa-c583-4187-b9bf-5439693b7095)
+
+Get the sum of reading score depends on ghender 
+
+![st3](https://github.com/user-attachments/assets/9bfd01e7-0b8d-43ac-a715-01b722a19eb2)
+
+Do specific groups ( by gender and parental education level) show significant performance differences?
+
+![st4](https://github.com/user-attachments/assets/2bebdee0-7e90-4c85-a0e1-cc8e502c3d4c)
 
 What external factors — such as test preparation course completion or lunch type — might influence performance?
 
